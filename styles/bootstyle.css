@@ -1,0 +1,28 @@
+.commonbox {
+    border-width: 3px;
+    border-style: solid;
+    border-color: darkolivegreen;
+    font-size: 20px;
+    text-align: right;
+}
+
+.tabbox1 {   
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkolivegreen;
+    font-size: 20px;
+    align-content: space-around;
+}
+.tabtitle {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.block1 {align-content: center}
+
+.footer {
+    color: darkolivegreen;
+    font-weight: bold;
+    text-align: center
+        
+}
